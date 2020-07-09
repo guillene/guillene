@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there from Costa Rica 👋
 
-<!--
-**guillene/guillene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Erick Guillén, I'm a Senior IT Manager that loves coding.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on serverless applications mainly in [Azure](https://azure.microsoft.com/en-us/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning [Microservices](https://microservices.io/patterns/microservices.html) applications with minimalist Web Frameworks. 
+
+👯 I’m looking to collaborate on [Powershell](https://github.com/PowerShell/PowerShell) and any intersting application that caughts my attention.
+
+🤔 I’m looking for help with getting into open source projects.
+
+💬 Ask me about Powershell, EDI, Github Actions.
+
+⚡ Fun fact: I love [Bullet Journal](https://bulletjournal.com/)
+
+Want to connect? 📫
+- Linkedin: https://www.linkedin.com/in/erickgtorelli/
+
