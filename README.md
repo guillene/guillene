@@ -1,6 +1,6 @@
 ## Hi there from Costa Rica 👋
 
-My name is Erick Guillén, I'm a Senior IT Manager that loves coding.
+My name is Erick Guillén, I'm a Senior IT Manager that enjoys coding.
 
 🔭 I’m currently working on serverless applications mainly in [Azure](https://azure.microsoft.com/en-us/).
 
